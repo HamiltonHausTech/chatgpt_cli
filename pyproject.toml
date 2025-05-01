@@ -1,5 +1,5 @@
 [project]
-name = "chatgpt-cli"
+name = "chatcli-gpt"
 version = "1.0.0"
 description = "A flexible command-line tool for interacting with OpenAI's ChatGPT API"
 authors = [
