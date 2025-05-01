@@ -1,6 +1,6 @@
 [project]
 name = "chatcli-gptx"
-version = "1.0.0"
+version = "1.0.1"
 description = "A flexible command-line tool for interacting with OpenAI's ChatGPT API"
 authors = [
   { name="Andrew Hamilton", email="drew@hamiltonhaus.tech" }
@@ -17,6 +17,11 @@ dependencies = [
 
 [project.scripts]
 chatgpt-cli = "chatgpt_cli.__main__:main"
+
+[project.urls]
+Homepage = "https://www.hamiltonhaus.tech"
+Repository = "https://github.com/hamiltonhaustech/chatgpt_cli"
+Issues = "https://github.com/hamiltonhaustech/chatgpt_cli/issues"
 
 [build-system]
 requires = ["setuptools>=67", "wheel"]

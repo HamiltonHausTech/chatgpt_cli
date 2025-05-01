@@ -1,5 +1,10 @@
 # ChatGPT CLI Tool
 
+![PyPI](https://img.shields.io/pypi/v/chatcli-gptx)
+![Python](https://img.shields.io/pypi/pyversions/chatcli-gptx)
+![License](https://img.shields.io/pypi/l/chatcli-gptx)
+![Tests](https://github.com/hamiltonhaustech/chatgpt_cli/actions/workflows/python-tests.yml/badge.svg)
+
 A flexible, full-featured command-line tool for interacting with OpenAI's ChatGPT API.
 
 ## 🔧 Features
@@ -47,6 +52,12 @@ chatgpt_cli/
 ├── README.md
 └── requirements.txt
 ```
+
+## 🔗 Links
+
+- **Homepage:** [hamiltonhaus.tech](https://www.hamiltonhaus.tech)
+- **PyPI:** [pypi.org/project/chatcli-gptx](https://pypi.org/project/chatcli-gptx/)
+- **GitHub Repo:** [github.com/hamiltonhaustech/chatgpt_cli](https://github.com/hamiltonhaustech/chatgpt_cli)
 
 ## 🧾 License
 MIT License
